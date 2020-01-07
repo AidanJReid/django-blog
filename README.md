@@ -1,7 +1,3 @@
-# Code Institute
+# DJANGO BLOG MINI-PROJECT
 
-Welcome Aidan Reid,
-
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+Simple blog app written using Django
